@@ -23,3 +23,6 @@ vendor
 
 .cache
 build
+
+# Local Netlify folder
+.netlify
